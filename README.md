@@ -50,7 +50,7 @@ This will open the chatbot interface for testing.
 
 ## **Hosted Version**
 For users who prefer not to set up the project locally, the chatbot is also available as a hosted application. Visit the following link to access it:
-[https://nzangachat.vercel.app/](https://nzangachat.vercel.app/)
+
 
 ---
 
